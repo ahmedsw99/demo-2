@@ -1,3 +1,3 @@
-void main(){
-print("hello git");
+void main() {
+  print("hello git");
 }
